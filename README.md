@@ -11,7 +11,8 @@
 ### + Familiar Props :
     Props are the information that you pass to a JSX tag. For example, className, src, alt, width, and height are some of the props you can pass to an <img>:
 
-    -One ways data binding is throws props from Parent to Child.```
+``` One ways data binding is throws props from Parent to Child.
+```
     
 
 
