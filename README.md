@@ -1,6 +1,23 @@
-# #About export :
+# [About export]()
     + export         : Mostly with Function 
     + export default : Mostly use with Component
+
+# [Component Types]()
+## [`Stateless Function Component`]
+## [`Statefull Class Component`]
+
+
+# [React16.7.0-alpha](Hooks)
+## [`Introduction Hooks`]
+-  Hooks -> [`Using state and other React feature without writing a class`]
+-  Hooks -> [`Usign RFC`]
+
+
+# [JSX]()
+
+
+# [Props]()
+- 
 
 # 1. Component and Props 
 ## Passing Props to Component
@@ -17,7 +34,13 @@
 # 3. RenderList 
 + You will often want to display multiple similar components from a collection  of data.You can use the JavaScript array methods to manipulate an array of data. On this example, you'll use ```filter()``` and ```map()``` with React to filter and transform your array of data into an array of components.
 
-+ ljjkljhjkhkjhlkjhjkhjkhjhljkhljkljkhljkhjkhkhjkhjkhkhkjhkhjh
+# [Style in ReactJs]()
+- 1. Inline Styles
+- 2. CSS Modules
+- 3. Styled-components:
+- 4. CSS-in-JS Libraries:
+- 5. Global Styles:
+
 
 
     
