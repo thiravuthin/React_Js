@@ -1,3 +1,9 @@
+
+.nav{
+  display: flex;
+  margin-left: 10px;
+  justify-content: space-evenly;
+}
 .App {
   text-align: center;
 }
