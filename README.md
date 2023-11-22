@@ -1,17 +1,6 @@
-# About export :
+# [About export]()
     + export         : Mostly with Function 
     + export default : Mostly use with Component
-
-``` + import export  : How to import export in ReactJS
-```
-
-``` + export default : How to export 
-```
-
-# React Extention:
-    + 
-    + rfc : shortcut create component.
-    + 
 
 # 1. Component and Props 
 # Passing Props to Component
@@ -28,7 +17,8 @@
 # 3. RenderList 
 + You will often want to display multiple similar components from a collection  of data.You can use the JavaScript array methods to manipulate an array of data. On this example, you'll use ```filter()``` and ```map()``` with React to filter and transform your array of data into an array of components.
 
-# 4. Condition Rendering 
++ ljjkljhjkhkjhlkjhjkhjkhjhljkhljkljkhljkhjkhkhjkhjkhkhkjhkhjh
+
 
     
 
